@@ -1,0 +1,5 @@
+com\javatechie\spring\mockito\api\SpringBootMockitoApplication.class
+com\javatechie\spring\mockito\api\controller\UserController.class
+com\javatechie\spring\mockito\api\dao\UserRepository.class
+com\javatechie\spring\mockito\api\model\User.class
+com\javatechie\spring\mockito\api\service\UserService.class
